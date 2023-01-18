@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshwadhwani07&label=Profile%20views&color=0e75b6&style=flat" alt="harshwadhwani07" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SalesForce**
 
 - 📫 How to reach me **harshwadhwani711@gmail.com**
 
