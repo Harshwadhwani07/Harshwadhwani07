@@ -8,17 +8,11 @@
 
 ---
 
-## 📊 GitHub Stats & Analytics
+## 📊 Top Languages & Skills
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshwadhwani07&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00a1de&text_color=e0e6ed&border_color=00a1de)](https://github.com/harshwadhwani07)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=harshwadhwani07&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=e0e6ed&border_color=00a1de)](https://github.com/harshwadhwani07)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshwadhwani07&theme=dark&background=0d1117&ring=00d4ff&fire=00a1de&currStreakLabel=00d4ff)](https://github.com/harshwadhwani07)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=harshwadhwani07&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)](https://github.com/harshwadhwani07)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=harshwadhwani07&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=e0e6ed&border_color=00a1de&hide_border=false)](https://github.com/harshwadhwani07)
 
 </div>
 
