@@ -39,12 +39,7 @@
 ---
 
 ## 🧠 About Me
-
-I’m a **Salesforce Business Systems Analyst & Developer** specializing in **CPQ**, **Agentforce**, and **AI-driven automation**.  
-I bridge **business strategy** and **technical architecture**, transforming ideas into scalable, intelligent solutions.
-
-> 💡 *"Designing systems that think, adapt, and scale with business needs."*
-
+Salesforce-certified professional with expertise in CPQ and business analysis. Skilled in automation, data modeling, and system optimization, aligning business needs with technology to deliver scalable, high-performance solutions. Dedicated to driving efficiency, innovation, and long-term success across global teams.
 ---
 
 <div align="center">
