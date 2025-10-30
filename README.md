@@ -50,10 +50,17 @@ Salesforce-certified professional with expertise in CPQ and business analysis. S
 <summary>🧩 Salesforce Development Stack & Extended Tech</summary>
 <br/>
 
-### 💻 Core Tools
-`Apex` `Visualforce` `LWC` `SOQL` `Flows` `Batch Jobs` `Triggers` `Web Services`
-
 <div align="center">
+  
+### ⚙️ Core Tools
+![Apex](https://img.shields.io/badge/Apex-009EDB?style=for-the-badge&logo=salesforce&logoColor=white)
+![Visualforce](https://img.shields.io/badge/Visualforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-1589EE?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-0070D2?style=for-the-badge&logo=salesforce&logoColor=white)
+![Flows](https://img.shields.io/badge/Flows-00AEEF?style=for-the-badge&logo=autodesk&logoColor=white)
+![Batch Jobs](https://img.shields.io/badge/Batch%20Jobs-1C75BC?style=for-the-badge&logo=clockify&logoColor=white)
+![Triggers](https://img.shields.io/badge/Triggers-0070D2?style=for-the-badge&logo=salesforce&logoColor=white)
+![Web Services](https://img.shields.io/badge/Web%20Services-4B8BBE?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### 💻 Languages & Frameworks
 ![Apex](https://img.shields.io/badge/Apex-009EDB?style=for-the-badge&logo=salesforce&logoColor=white)
