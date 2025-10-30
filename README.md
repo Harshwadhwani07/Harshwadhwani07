@@ -48,7 +48,7 @@ I bridge **business strategy** and **technical architecture**, transforming idea
 ---
 
 <div align="center">
-## ⚙️ Salesforce Expertise
+⚙️ Salesforce Expertise
   
 | 💰 CPQ Solutions | 🤖 Agentforce & AI | 🌐 Salesforce Ecosystem |
 |-----------------|-------------------|-----------------------|
