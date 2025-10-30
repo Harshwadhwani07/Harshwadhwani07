@@ -1,5 +1,8 @@
+<h1 align="center">Hi 👋, I'm Harsh Wadhwani</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 ### 🔧 Salesforce Development
-`Apex` `Visualforce` `LWC` `SOQL` `Flow` `Process Builder` `Batch Jobs` `Triggers` `Web Services`# 👋 HARSH WADHWANI
+`Apex` `Visualforce` `LWC` `SOQL` `Flow` `Process Builder` `Batch Jobs` `Triggers` `Web Services`
 
 ## Salesforce Business Systems Analyst & Developer
 
