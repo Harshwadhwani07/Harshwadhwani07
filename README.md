@@ -48,7 +48,8 @@ I bridge **business strategy** and **technical architecture**, transforming idea
 ---
 
 <div align="center">
-
+## ⚙️ Salesforce Expertise
+  
 | 💰 CPQ Solutions | 🤖 Agentforce & AI | 🌐 Salesforce Ecosystem |
 |-----------------|-------------------|-----------------------|
 | • Advanced Pricing Logic<br>• Quote Template Automation<br>• Contract Lifecycle Mgmt<br>• Approval & Renewal Automation | • AI Agent Configuration<br>• Einstein AI Integration<br>• Prompt Engineering<br>• Conversational Workflows | • Sales, Service, & Experience Cloud<br>• Data Cloud & Integration<br>• Flow Automation<br>• Analytics & Reporting |
