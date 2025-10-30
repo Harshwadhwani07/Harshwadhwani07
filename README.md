@@ -12,17 +12,26 @@
 ---
 
 ### ⚡ Core Tech Stack
-### ⚡ Core Tech Stack
 <p align="center">
+  <!-- Core Development -->
   <img alt="Apex" src="https://img.shields.io/badge/Apex-009EDB?style=for-the-badge&logo=salesforce&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="LWC" src="https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black"/>
+  
+  <!-- Salesforce CPQ Ecosystem -->
   <img alt="CPQ" src="https://img.shields.io/badge/CPQ-FF6F00?style=for-the-badge"/>
-  <img alt="Agentforce" src="https://img.shields.io/badge/Agentforce-00D4FF?style=for-the-badge"/>
+  <img alt="Quote Templates" src="https://img.shields.io/badge/Quote_Templates-FF5733?style=for-the-badge"/>
+  <img alt="Product Bundles" src="https://img.shields.io/badge/Product_Bundles-FFC300?style=for-the-badge"/>
+  <img alt="Pricing Rules" src="https://img.shields.io/badge/Pricing_Rules-C70039?style=for-the-badge"/>
+  <img alt="Approvals" src="https://img.shields.io/badge/Approvals-900C3F?style=for-the-badge"/>
+  
+  <!-- Salesforce Automation -->
   <img alt="Flows" src="https://img.shields.io/badge/Flows-FF5733?style=for-the-badge"/>
   <img alt="Triggers" src="https://img.shields.io/badge/Triggers-900C3F?style=for-the-badge"/>
+  
+  <!-- Testing / Automation Tools -->
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white"/>
 </p>
