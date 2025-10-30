@@ -4,6 +4,7 @@
 <p align="center">
   <a href="mailto:harshwadhwani711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/harshwadhwani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.salesforce.com/trailblazer/harshwadhwani"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=flat&logo=salesforce&logoColor=white" /></a>
   <a href="https://leetcode.com/harshwadhwani711"><img src="https://img.shields.io/badge/LeetCode-FFA500?style=flat&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/harshw07"><img src="https://img.shields.io/badge/CodeChef-5B4E8C?style=flat&logo=codechef&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=harshwadhwani07&label=Profile%20Views&color=00a1de&style=flat-square" alt="Profile Views" />
@@ -40,6 +41,7 @@
 
 ## 🧠 About Me
 Salesforce-certified professional with expertise in CPQ and business analysis. Skilled in automation, data modeling, and system optimization, aligning business needs with technology to deliver scalable, high-performance solutions. Dedicated to driving efficiency, innovation, and long-term success across global teams.
+
 ---
 
 <div align="center">
