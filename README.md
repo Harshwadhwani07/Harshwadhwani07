@@ -11,17 +11,17 @@
 
 ---
 
-## ⚡ Core Tech Stack
+### ⚡ Core Tech Stack
 <p align="center">
-  ![Apex](https://img.shields.io/badge/Apex-009EDB?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0d1117)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
-  ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0d1117)
-  ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117)
-  ![CPQ](https://img.shields.io/badge/CPQ-FF6F00?style=for-the-badge&logoColor=white&labelColor=0d1117)
-  ![Agentforce](https://img.shields.io/badge/Agentforce-00D4FF?style=for-the-badge&logoColor=white&labelColor=0d1117)
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=0d1117)
-  ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white&labelColor=0d1117)
+  <img alt="Apex" src="https://img.shields.io/badge/Apex-009EDB?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="LWC" src="https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="CPQ" src="https://img.shields.io/badge/CPQ-FF6F00?style=for-the-badge"/>
+  <img alt="Agentforce" src="https://img.shields.io/badge/Agentforce-00D4FF?style=for-the-badge"/>
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white"/>
 </p>
 
 ---
