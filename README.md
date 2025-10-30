@@ -11,10 +11,25 @@
 
 ---
 
+## ⚡ Core Tech Stack
+<p align="center">
+  ![Apex](https://img.shields.io/badge/Apex-009EDB?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0d1117)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
+  ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0d1117)
+  ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117)
+  ![CPQ](https://img.shields.io/badge/CPQ-FF6F00?style=for-the-badge&logoColor=white&labelColor=0d1117)
+  ![Agentforce](https://img.shields.io/badge/Agentforce-00D4FF?style=for-the-badge&logoColor=white&labelColor=0d1117)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=0d1117)
+  ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white&labelColor=0d1117)
+</p>
+
+---
+
 ## 🧠 About Me
 
-I’m a **Salesforce Business Systems Analyst & Developer** specializing in **CPQ**, **Agentforce**, and **AI-driven automation** within the Salesforce ecosystem.  
-I bridge the gap between **business strategy** and **technical architecture** — transforming ideas into scalable, intelligent solutions.
+I’m a **Salesforce Business Systems Analyst & Developer** specializing in **CPQ**, **Agentforce**, and **AI-driven automation**.  
+I bridge **business strategy** and **technical architecture**, transforming ideas into scalable, intelligent solutions.
 
 > 💡 *"Designing systems that think, adapt, and scale with business needs."*
 
@@ -23,96 +38,85 @@ I bridge the gap between **business strategy** and **technical architecture** �
 ## ⚙️ Salesforce Expertise
 
 | 💰 CPQ Solutions | 🤖 Agentforce & AI | 🌐 Salesforce Ecosystem |
-|------------------|-------------------|--------------------------|
+|-----------------|-------------------|-----------------------|
 | • Advanced Pricing Logic<br>• Quote Template Automation<br>• Contract Lifecycle Mgmt<br>• Approval & Renewal Automation | • AI Agent Configuration<br>• Einstein AI Integration<br>• Prompt Engineering<br>• Conversational Workflows | • Sales, Service, & Experience Cloud<br>• Data Cloud & Integration<br>• Flow Automation<br>• Analytics & Reporting |
 
 ---
 
-## 🧩 Salesforce Development Stack
+<details>
+<summary>🧩 Salesforce Development Stack & Extended Tech</summary>
+<br/>
 
 ### 💻 Core Tools
 `Apex` `Visualforce` `LWC` `SOQL` `Flows` `Batch Jobs` `Triggers` `Web Services`
 
-<details>
-  <summary>⚙️ <b>Extended Tech Stack</b></summary>
-  <br/>
+<div align="center">
 
-  <div align="center">
-
-  ### 💻 Languages & Frameworks
-  ![Apex](https://img.shields.io/badge/Apex-009EDB?style=for-the-badge&logo=salesforce&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=java&logoColor=white)
-
-  ---
-
-  ### ⚡ Frontend & UI Development
-  ![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
-
-  ---
-
-  ### ☁️ Cloud & DevOps
-  ![Salesforce](https://img.shields.io/badge/Salesforce-00A1DE?style=for-the-badge&logo=salesforce&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/Heroku-6762A6?style=for-the-badge&logo=heroku&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![CI/CD](https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=githubactions&logoColor=white)
-
-  ---
-
-  ### 🔗 Integration, Automation & APIs
-  ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white)
-  ![SOAP](https://img.shields.io/badge/SOAP-023047?style=for-the-badge&logo=w3c&logoColor=white)
-  ![MuleSoft](https://img.shields.io/badge/MuleSoft-007C92?style=for-the-badge&logo=mulesoft&logoColor=white)
-  ![OAuth2](https://img.shields.io/badge/OAuth%202.0-3E8E41?style=for-the-badge&logo=openid&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
-
-  ---
-
-  ### 🧩 Databases & Data Tools
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Salesforce Data Cloud](https://img.shields.io/badge/Data%20Cloud-00A1DE?style=for-the-badge&logo=salesforce&logoColor=white)
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-  ![Analytics](https://img.shields.io/badge/Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-  ---
-
-  ### 🧰 Tools & IDEs
-  ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![Salesforce CLI](https://img.shields.io/badge/Salesforce%20CLI-00A1DE?style=for-the-badge&logo=salesforce&logoColor=white)
-
-  </div>
-
-</details>
-
-## 🧠 Key Metrics & Impact
-
-| 🏆 Metric | 🚀 Result |
-|------------|-----------|
-| **CPQ Automation** | Reduced quote cycle time by **70%** |
-| **AI Agent Implementation** | Cut manual effort by **60%+** |
-| **Data Cloud Integration** | Unified data for **360° visibility** |
-| **Salesforce Optimization** | Improved process efficiency by **40%** |
-| **Mentorship & Enablement** | Trained **10+ developers** on Apex & LWC |
+### 💻 Languages & Frameworks
+![Apex](https://img.shields.io/badge/Apex-009EDB?style=for-the-badge&logo=salesforce&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
-## 🏗️ Featured Projects
+### ⚡ Frontend & UI
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1DE?style=for-the-badge&logo=salesforce&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-6762A6?style=for-the-badge&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 🔗 Integration, Automation & APIs
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-023047?style=for-the-badge&logo=w3c&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-007C92?style=for-the-badge&logo=mulesoft&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth%202.0-3E8E41?style=for-the-badge&logo=openid&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
+
+---
+
+### 🧩 Databases & Data Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Salesforce Data Cloud](https://img.shields.io/badge/Data%20Cloud-00A1DE?style=for-the-badge&logo=salesforce&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+---
+
+### 🧰 Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Salesforce CLI](https://img.shields.io/badge/Salesforce%20CLI-00A1DE?style=for-the-badge&logo=salesforce&logoColor=white)
+
+</div>
+</details>
+
+---
+
+<details>
+<summary>🏗️ Featured Projects</summary>
+<br/>
 
 ### 🔧 Apex Utility Library  
 Reusable Apex classes for common business logic and integrations.  
@@ -138,18 +142,13 @@ AI agent templates for automated workflows, pre-trained with prompt logic.
 End-to-end migration framework with validation & reconciliation.  
 **Tech:** Apex, Batch Jobs, Data Loader API  
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=harshwadhwani07&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00a1de&text_color=e0e6ed&hide_border=false" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshwadhwani07&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=e0e6ed&border_color=00a1de" />
-</div>
+</details>
 
 ---
 
-## 🧰 Services & Consulting Areas
+<details>
+<summary>🧰 Services & Consulting Areas</summary>
+<br/>
 
 ### 🔍 **Salesforce Consulting**
 - Architecture & Design  
@@ -169,44 +168,38 @@ End-to-end migration framework with validation & reconciliation.
 - Admin/Dev Team Upskilling  
 - Documentation & Support  
 
+</details>
+
 ---
 
-## 🧠 Currently Exploring
+<details>
+<summary>🧠 Currently Exploring & Fun Facts</summary>
+<br/>
 
 - 🧬 **Advanced Agentforce Frameworks** – Scalable AI-driven automation  
 - 🌊 **Salesforce Data Cloud** – Real-time customer 360°  
 - 🏗️ **Enterprise Architecture** – Multi-org scalable patterns  
 - 🤖 **Prompt Engineering** – AI-optimized business logic  
 
----
+**Fun Facts:**  
+- 🎨 UX-focused developer — enterprise apps can be *beautiful* too  
+- 🚀 Obsessed with automation — repeat twice, automate once  
+- 🧩 Problem solver — simplifying complex approval & pricing workflows  
+- 📚 Lifelong learner — AI + Salesforce synergy daily  
 
-## 🎯 My Core Beliefs
-
-> 🧠 **Architect First** – Design systems that scale before writing code  
-> ⚡ **Automate Everything** – Reduce friction & increase velocity  
-> 🤝 **Collaborate & Mentor** – Build teams that grow together  
-> 🚀 **Innovate with AI** – Use intelligence to create impact  
-
----
-
-## 🧩 Tools & Platforms
-
-`Salesforce CLI` `GitHub` `Figma` `JIRA` `VS Code` `Heroku`  
-`AWS` `Azure` `Google Cloud` `Docker` `CI/CD Pipelines` `Data Cloud`
+</details>
 
 ---
 
-## ✨ Fun Facts
-
-- 🎨 UX-focused developer — I believe enterprise apps can be *beautiful* too.  
-- 🚀 Obsessed with automation — If I repeat it twice, I’ll automate it once.  
-- 🧩 Problem solver — Love simplifying complex approval & pricing workflows.  
-- 📚 Lifelong learner — Exploring AI + Salesforce synergy daily.  
+## 📊 GitHub Analytics
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=harshwadhwani07&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00a1de&text_color=e0e6ed&hide_border=false" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshwadhwani07&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=e0e6ed&border_color=00a1de" />
+</div>
 
 ---
 
-## 🤝 Let’s Connect
-
+## 🤝 Connect With Me
 <p align="center">
   <a href="mailto:harshwadhwani711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/harshwadhwani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -214,14 +207,11 @@ End-to-end migration framework with validation & reconciliation.
   <a href="https://leetcode.com/harshwadhwani711"><img src="https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
----
-
 <div align="center">
 
-⭐ **If you find my work helpful, please star my repositories!**  
-📍 Based in Jaipur, India | 🟢 Available for Consulting & Freelance Projects  
+⭐ **Star my repositories if you find my work useful!**  
+📍 Jaipur, India | 🟢 Available for Consulting & Freelance Projects  
 
-### 📈 My GitHub Journey  
 💻 100+ repositories | 🚀 Open-source contributor | 🧩 CPQ & AI enthusiast  
 
 © 2024 **Harsh Wadhwani** | Salesforce Specialist | Business Systems Analyst  
