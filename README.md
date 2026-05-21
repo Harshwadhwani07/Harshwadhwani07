@@ -42,9 +42,7 @@ based:       Jaipur, Rajasthan, India
 
 ## 🧠 About Me
 
-I'm a Salesforce Consultant focused on the messy middle of CPQ — **discount schedules that need to survive an audit, approval matrices with five stakeholders and three exceptions, and Agentforce conversations grounded in real Salesforce data.**
-
-Three years at FEXLE (Salesforce Platinum Partner, a Xoriant company), three promotions, four certifications. I sit between Sales, Deal Desk, Finance, Legal, and IT — translating business intent into technical delivery, and technical constraints back into business context.
+I'm **Harsh**, a Salesforce Consultant focused on turning complex business requirements into scalable Salesforce solutions. Over the past **3 years**, I’ve worked across CPQ, Billing, and Agentforce, bridging the gap between business teams and the systems that power execution.
 
 ---
 
