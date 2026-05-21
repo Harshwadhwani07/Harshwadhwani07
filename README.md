@@ -32,11 +32,10 @@
 name:        Harsh Wadhwani
 role:        Salesforce Consultant — CPQ & Billing
 company:     FEXLE Services  (a Xoriant Company · Salesforce Platinum Partner)
-tenure:      Jan 2023 → Present  ·  3 promotions in 3 years
+tenure:      Jan 2023 → May 2026  
 focus:       CPQ delivery · Billing · Agentforce · Business analysis
 certified:   4× Salesforce Certified · Agentblazer Legend · Trailhead Double Star Ranger
 based:       Jaipur, Rajasthan, India
-timezone:    IST  ·  comfortable across IST / EU / US
 ```
 
 ---
